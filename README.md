@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LadyLoki123
+- 👀 I’m interested in coding C++ and Python, as well as designing and customizing websites using my skills in HTML and CSS.
+- 🌱 I’m currently learning object-oriented programming.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am dual majoring in Computer Science and Marketing, with a previous degree in Web Development. I plan to become a digital marketer, and I love learning every detail involved!
